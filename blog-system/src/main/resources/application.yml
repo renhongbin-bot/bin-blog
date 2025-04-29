@@ -13,6 +13,9 @@ mybatis-plus:
   configuration:
     log-impl: org.apache.ibatis.logging.stdout.StdOutImpl #??sql??
     map-underscore-to-camel-case: true
+springdoc:
+  swagger-ui:
+    path: /swagger-ui.html
 #logging:
 #  level:
 #    org.springframework: DEBUG

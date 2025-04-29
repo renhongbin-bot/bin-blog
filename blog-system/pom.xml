@@ -77,6 +77,12 @@
 			<version>4.13.1</version>
 			<scope>test</scope>
 		</dependency>
+		<!--swagger-->
+		<dependency>
+			<groupId>org.springdoc</groupId>
+			<artifactId>springdoc-openapi-starter-webmvc-ui</artifactId>
+			<version>2.0.4</version>
+		</dependency>
 		<!--
 		进行单元测试和集成测试所需的各种组件
 		-->
